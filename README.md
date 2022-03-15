@@ -34,7 +34,9 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Famaninamdar09%2FMafiaBot"
+<h4>Click the button below to deploy DANISH MUSIC BOT on Heroku!</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Famaninamdar09%2FDANISHMUSICBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+    
 
 </details>
 
